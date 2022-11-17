@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnesDONER
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Java,React,Angular
+- 🌱 I’m currently learning .Net,Java,Angular,JS,TS,C#,Html,CSS,Bootstrap
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me businessenesdoner@gmail.com
 <!---
